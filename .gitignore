@@ -5,6 +5,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.spec
+*.exe
+
+# Helper & Temporary scripts
+askpass.*
+publish_to_github.py
 
 # PyInstaller temporary files
 *.manifest

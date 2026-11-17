@@ -1,0 +1,18 @@
+# Build & Cache Directories
+build/
+dist/
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# PyInstaller temporary files
+*.manifest
+warn-*.txt
+xref-*.html
+
+# OS and Editor files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
